@@ -2,9 +2,10 @@
 
 # Task Description: 
 
-Write a simple application that creates the following GUI:
+Write a game application at which a user attempts to chase and click onto a constantly moving panel on a grid.
 
 The application should have the following behaviour:
+
 - On initialisation, the application should randomly choose where to locate the
 "Click Me" button.
 
